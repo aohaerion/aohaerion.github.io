@@ -233,4 +233,21 @@ p {
   .footer-inner {
     flex-direction: column;
   }
+
+  .hero-note {
+  margin: 0 0 1.25rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.78);
+ }
+
+
+  .section-kicker {
+  margin: 0 0 0.6rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.62);
+ }
 }
+
